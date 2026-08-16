@@ -6,7 +6,7 @@ WinMedia Builder automatically splits large **install.wim** files, rebuilds a bo
 
 No more DISM commands, DiskPart scripts, or manual ISO rebuilding.
 
-![WinMedia Builder Screenshot](docs/screenshot.png)
+![WinMedia Builder](docs/WinMediaBuilder.png)
 
 ---
 
